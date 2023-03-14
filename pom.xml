@@ -2,11 +2,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.han-yaeger</groupId>
-    <artifactId>tutorial</artifactId>
-    <version>2021.2022.1</version>
+    <groupId>nl.han.jaapp</groupId>
+    <artifactId>jaapgame</artifactId>
+    <version>1</version>
 
-    <name>Yaeger tutorial: Waterworld</name>
+    <name>Yaeger game: jaapgame</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -37,7 +37,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.github.hanyaeger.tutorial.Waterworld</mainClass>
+                    <mainClass>nl.han.jaapp.jaapgame.Waterworld</mainClass>
                 </configuration>
             </plugin>
         </plugins>

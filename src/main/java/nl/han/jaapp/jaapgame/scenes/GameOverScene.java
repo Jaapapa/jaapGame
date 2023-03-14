@@ -1,12 +1,12 @@
-package com.github.hanyaeger.tutorial.scenes;
+package nl.han.jaapp.jaapgame.scenes;
 
 import com.github.hanyaeger.api.AnchorPoint;
 import com.github.hanyaeger.api.Coordinate2D;
 import com.github.hanyaeger.api.entities.impl.TextEntity;
 import com.github.hanyaeger.api.scenes.StaticScene;
-import com.github.hanyaeger.tutorial.Waterworld;
-import com.github.hanyaeger.tutorial.entities.buttons.QuitButton;
-import com.github.hanyaeger.tutorial.entities.buttons.StartButton;
+import nl.han.jaapp.jaapgame.Waterworld;
+import nl.han.jaapp.jaapgame.entities.buttons.QuitButton;
+import nl.han.jaapp.jaapgame.entities.buttons.StartButton;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;

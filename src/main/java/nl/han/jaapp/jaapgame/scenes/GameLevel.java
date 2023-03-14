@@ -1,16 +1,17 @@
-package com.github.hanyaeger.tutorial.scenes;
+package nl.han.jaapp.jaapgame.scenes;
 
 import com.github.hanyaeger.api.Coordinate2D;
 import com.github.hanyaeger.api.EntitySpawnerContainer;
 import com.github.hanyaeger.api.scenes.DynamicScene;
 import com.github.hanyaeger.api.scenes.TileMapContainer;
-import com.github.hanyaeger.tutorial.Waterworld;
-import com.github.hanyaeger.tutorial.entities.*;
-import com.github.hanyaeger.tutorial.entities.map.CoralTileMap;
-import com.github.hanyaeger.tutorial.entities.swordfish.SwordFish;
-import com.github.hanyaeger.tutorial.entities.text.BubblesPoppedText;
-import com.github.hanyaeger.tutorial.entities.text.HealthText;
-import com.github.hanyaeger.tutorial.spawners.BubbleSpawner;
+import nl.han.jaapp.jaapgame.Waterworld;
+import nl.han.jaapp.jaapgame.entities.map.CoralTileMap;
+import nl.han.jaapp.jaapgame.entities.swordfish.SwordFish;
+import nl.han.jaapp.jaapgame.entities.text.BubblesPoppedText;
+import nl.han.jaapp.jaapgame.entities.text.HealthText;
+import nl.han.jaapp.jaapgame.spawners.BubbleSpawner;
+import nl.han.jaapp.jaapgame.entities.Hanny;
+import nl.han.jaapp.jaapgame.entities.Sharky;
 
 public class GameLevel extends DynamicScene implements EntitySpawnerContainer, TileMapContainer {
 

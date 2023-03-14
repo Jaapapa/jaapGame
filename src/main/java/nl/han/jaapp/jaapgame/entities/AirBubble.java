@@ -1,4 +1,4 @@
-package com.github.hanyaeger.tutorial.entities;
+package nl.han.jaapp.jaapgame.entities;
 
 import com.github.hanyaeger.api.Coordinate2D;
 import javafx.scene.paint.Color;

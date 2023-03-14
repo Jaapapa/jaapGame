@@ -1,4 +1,4 @@
-package com.github.hanyaeger.tutorial.entities.swordfish;
+package nl.han.jaapp.jaapgame.entities.swordfish;
 
 import com.github.hanyaeger.api.Coordinate2D;
 import com.github.hanyaeger.api.entities.Direction;
